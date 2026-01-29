@@ -86,7 +86,7 @@ me.say_hi()
 **🎯 My TryHackMe Journey:**
 - ✅ Pre Security Path - Complete
 - 🔄 Jr Penetration Tester - In Progress
-- 📍 Current Room: [Update this manually in Obsidian]
+- 📍 Current Room: Linux Fundamentals
 - 🎖️ Rank: [Your current rank]
 
 ---
