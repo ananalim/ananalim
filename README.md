@@ -1,19 +1,24 @@
 <!-- Don't modify this line - it's the marker -->
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="65%">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Red+Team+Operator+in+Training+%F0%9F%94%A5;Penetration+Tester+%7C+OSCP+Journey+%F0%9F%8E%AF;Breaking+Systems%2C+Building+Security+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&repeat=true&width=700&lines=Red+Team+Operator+in+Training;Penetration+Tester+|+OSCP+Journey;Breaking+Systems+Building+Security" />
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=ananalim&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=ananalim&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" />
 
----
+</td>
 
-<!-- Hacking Animation -->
-<img align="right" alt="Hacking GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<td align="center" width="35%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="280" />
+
+</td>
+</tr>
+</table>
 
 ### 👨‍💻 whoami
 
