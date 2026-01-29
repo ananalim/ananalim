@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READMD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "READMD"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "ccac182ae6e9826f",
+  "active": "d290cc2a1420e103",
   "lastOpenFiles": [
-    "READMD.md"
+    "README.md"
   ]
 }
