@@ -76,9 +76,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- TryHackMe Badge - Auto Updates! -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/ananalim.png" alt="TryHackMe Badge" width="200px">
-
 <!-- TryHackMe Stats Card -->
 <a href="https://tryhackme.com/p/ananalim" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
