@@ -56,7 +56,6 @@ me = RedTeamOperator()
 me.say_hi()
 ```
 
-<br clear="right"/>
 
 ---
 
@@ -307,7 +306,7 @@ graph LR
 </a>
 
 <!-- Email -->
-<a href="mailto:ananalim@example.com" target="_blank">
+<a href="mailto:ananstein@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -346,14 +345,6 @@ graph LR
 ![](https://github-profile-trophy.vercel.app/?username=ananalim&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
-
----
-
-### 📈 Contribution Calendar
-
-<!--START_SECTION:activity-->
-<!-- GitHub Activity will appear here automatically -->
-<!--END_SECTION:activity-->
 
 ---
 
