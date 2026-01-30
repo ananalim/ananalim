@@ -1,102 +1,192 @@
-<div align="center"> <!-- Animated Terminal Header --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=DC143C&center=true&vCenter=true&width=940&lines=ANAN+ALIM;Penetration+Tester+%7C+Red+Team+Enthusiast;Building+Skills%2C+One+Exploit+at+a+Time" alt="Typing SVG" /> </div> <p align="center"> <img src="https://img.shields.io/badge/CS_Student-BRAC_University-crimson?style=flat-square&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/Status-Learning-00ff00?style=flat-square&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/Focus-Offensive_Security-dc143c?style=flat-square&labelColor=1a1a1a" /> </p> <div align="center">
+<div align="center"> <!-- Cyberpunk Header Wave --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANAN%20ALIM&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PENETRATION%20TESTER%20|%20RED%20TEAM%20ENTHUSIAST&descSize=20&descAlignY=55" width="100%"/> </div> <!-- Glitch Text Animation --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E%3E%20INITIALIZING%20NEURAL%20INTERFACE...;%3E%3E%20ACCESS%20GRANTED%3A%20WELCOME%20TO%20THE%20MAINFRAME;%3E%3E%20BUILDING%20SKILLS%2C%20ONE%20EXPLOIT%20AT%20A%20TIME" /> </div> <p align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=00ff41&labelColor=000000&borderColor=00ff41" /> <img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-dc143c?style=for-the-badge&logo=hackaday&logoColor=dc143c&labelColor=000000" /> <img src="https://img.shields.io/badge/EDU-BRAC%20UNIVERSITY-00d9ff?style=for-the-badge&logo=google-scholar&logoColor=00d9ff&labelColor=000000" /> <img src="https://img.shields.io/badge/FOCUS-RED%20TEAM-ff0080?style=for-the-badge&logo=target&logoColor=ff0080&labelColor=000000" /> </p> <!-- Matrix Rain Effect --> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div> <br> <!-- Cyberpunk Quote Terminal --> <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "Knowing yourself is the beginning of all wisdom."     ║
-║                                    — Aristotle            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                  ┃
+┃  ██╗  ██╗███╗   ██╗ ██████╗ ██╗    ██╗    ██╗   ██╗ ██████╗ ██╗ ┃
+┃  ██║ ██╔╝████╗  ██║██╔═══██╗██║    ██║    ╚██╗ ██╔╝██╔═══██╗██║ ┃
+┃  █████╔╝ ██╔██╗ ██║██║   ██║██║ █╗ ██║     ╚████╔╝ ██║   ██║██║ ┃
+┃  ██╔═██╗ ██║╚██╗██║██║   ██║██║███╗██║      ╚██╔╝  ██║   ██║╚═╝ ┃
+┃  ██║  ██╗██║ ╚████║╚██████╔╝╚███╔███╔╝       ██║   ╚██████╔╝██╗ ┃
+┃  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝        ╚═╝    ╚═════╝ ╚═╝ ┃
+┃                                                                  ┃
+┃      "Knowing yourself is the beginning of all wisdom."         ┃
+┃                                                  — Aristotle     ┃
+┃                                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-</div>
+</div> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> </p> <br>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table width="100%"> <tr> <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **SYSTEM.INIT() { WHOAMI }**
 
-```js
-const anan = {
-    role: "Aspiring Penetration Tester",
-    education: "CS @ BRAC University",
-    currentFocus: "Jr. Penetration Tester Path",
-    philosophy: "Slow but deep. Structured learner always.",
-    mindset: "Builder",
+```cpp
+class CyberWarrior {
+  public:
+    string alias = "Anan Alim";
+    string role = "Aspiring Penetration Tester";
+    string edu = "CS @ BRAC University";
+    string focus = "Jr. Penetration Tester Path";
     
-    longTermGoal: {
-        certifications: ["eJPT (Aug 2026)", "OSCP (Sept 2027)", "CRTO"],
-        career: "Red Team Operations"
-    },
+    struct Philosophy {
+        string approach = "Slow but deep";
+        string style = "Structured learner always";
+        string mindset = "Builder";
+    } mindset;
     
-    favoriteOS: {
-        work: "Kali Linux",
-        daily: "Ubuntu"
-    }
+    struct Goals {
+        vector<string> certs = {
+            "eJPT (Aug 2026)",
+            "OSCP (Sept 2027)", 
+            "CRTO (Post-OSCP)"
+        };
+        string ultimate = "Red Team Operations";
+    } roadmap;
+    
+    struct Arsenal {
+        string work = "Kali Linux";
+        string daily = "Ubuntu";
+    } os;
 };
 ```
 
-<br clear="right"/>
+</td> <td width="50%" valign="top"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
----
-
-### 🎯 **Certification Roadmap**
-
-<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/2026-eJPT-00ff00?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=00ff00" /><br> <sub><b>August 2026</b></sub><br> <sub>eLearnSecurity Junior<br>Penetration Tester</sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/2027-OSCP-dc143c?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=dc143c" /><br> <sub><b>September 2027</b></sub><br> <sub>Offensive Security<br>Certified Professional</sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Future-CRTO-ff6b6b?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=ff6b6b" /><br> <sub><b>Post-OSCP</b></sub><br> <sub>Certified Red Team<br>Operator</sub> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11,20&height=3&section=header" width="80%"/> </div>
-
----
-
-### ⚔️ **Arsenal**
-
-<table width="100%"> <tr> <td valign="top" width="50%">
-
-#### 🐧 **Systems & Environments**
-
-<p align="left"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </p>
-
-#### 🔴 **Offensive Tools**
-
-<p align="left"> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Hashcat-AA0000?style=for-the-badge&logoColor=white" /> </p> </td> <td valign="top" width="50%">
-
-#### 💻 **Programming & Scripting**
-
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> </p>
-
-#### 🛠️ **Development Tools**
-
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /> </p> </td> </tr> </table>
-
----
-
-### 🔗 **Connect**
+<br><br>
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ananalim-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1a1a)](https://tryhackme.com/p/ananalim) [![GitHub](https://img.shields.io/badge/GitHub-ananalim-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ananalim) [![Discord](https://img.shields.io/badge/Discord-saddist-DC143C?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](https://claude.ai/chat/113e4fa8-ed4b-4079-9882-e0bab0c4d3ac#)
+### ⚡ NEURAL NETWORK STATUS
 
-**LinkedIn** • **Blog** — _Coming Soon_
-
-</div>
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-00ff41?style=for-the-badge&logo=databricks&logoColor=00ff41&labelColor=000000" /> <img src="https://img.shields.io/badge/COFFEE_CONSUMED-∞-ff6b6b?style=for-the-badge&logo=buymeacoffee&logoColor=ff6b6b&labelColor=000000" /> <img src="https://img.shields.io/badge/EXPLOITS_LEARNED-COUNTING-dc143c?style=for-the-badge&logo=rocket&logoColor=dc143c&labelColor=000000" /> </div> </td> </tr> </table> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> <br>
 
 ---
 
-<div align="center">
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **CERTIFICATION.PROTOCOL [ ROADMAP ]**
 
-### 💭 **Learning Philosophy**
+<div align="center"> <table> <tr> <td align="center" width="30%"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"> <br><br> <img src="https://img.shields.io/badge/2026%20AUG-eJPT-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=000000" /> <br><br> <sub><b>⚡ PHASE 1</b></sub><br> <sub>eLearnSecurity Junior<br>Penetration Tester</sub><br> <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-ffdd00?style=flat-square&labelColor=000000" /> </td> <td align="center" width="5%"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> </td> <td align="center" width="30%"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"> <br><br> <img src="https://img.shields.io/badge/2027%20SEPT-OSCP-dc143c?style=for-the-badge&logo=hack-the-box&logoColor=dc143c&labelColor=000000" /> <br><br> <sub><b>🔥 PHASE 2</b></sub><br> <sub>Offensive Security<br>Certified Professional</sub><br> <img src="https://img.shields.io/badge/STATUS-LOCKED-666666?style=flat-square&labelColor=000000" /> </td> <td align="center" width="5%"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> </td> <td align="center" width="30%"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"> <br><br> <img src="https://img.shields.io/badge/POST_OSCP-CRTO-ff0080?style=for-the-badge&logo=google-authenticator&logoColor=ff0080&labelColor=000000" /> <br><br> <sub><b>💀 PHASE 3</b></sub><br> <sub>Certified Red Team<br>Operator</sub><br> <img src="https://img.shields.io/badge/STATUS-LOCKED-666666?style=flat-square&labelColor=000000" /> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/> <br>
 
-```python
-while True:
-    learn("slow but deep")
-    document("in obsidian")
-    build("with intention")
-    repeat()
-    
-# Student today. Red teamer tomorrow.
+```diff
++ MISSION: Transform from student → Red Team Operator
++ TIMELINE: 2026-2028
++ METHOD: Structured learning | Deep understanding | Constant building
 ```
 
-<img src="https://komarev.com/ghpvc/?username=ananalim&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS" /> </div>
+</div> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> <br>
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Hacking&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/> </div>
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **ARSENAL.SYS [ LOADED ]**
+
+<table width="100%"> <tr> <td valign="top" width="50%"> <div align="center">
+
+#### <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="25"> **OPERATING SYSTEMS**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=000000" /> <br>
+
+#### <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="25"> **OFFENSIVE TOOLKIT**
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Hashcat-AA0000?style=for-the-badge&logoColor=white&labelColor=000000" /> </div> </td> <td valign="top" width="50%"> <div align="center">
+
+#### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> **PROGRAMMING ARSENAL**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000" /> <br>
+
+#### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="25"> **DEV ENVIRONMENT**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=000000" /> </div> </td> </tr> </table> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> </p> <br>
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> **NETWORK.PROTOCOL [ CONNECT ]**
+
+<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> <br><br> <a href="https://tryhackme.com/p/ananalim"> <img src="https://img.shields.io/badge/TryHackMe-ananalim-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" /> </a> <br><br> <sub>Active Learning Platform</sub> </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"> <br><br> <a href="https://github.com/ananalim"> <img src="https://img.shields.io/badge/GitHub-ananalim-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /> </a> <br><br> <sub>Code Repository</sub> </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"> <br><br> <img src="https://img.shields.io/badge/Discord-saddist-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" /> <br><br> <sub>Direct Messaging</sub> </td> </tr> </table> <br>
+
+**🔗 LinkedIn** • **📝 Blog** — _Initializing Soon..._
+
+</div> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> <br>
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-757bebf1-9fb0-4bff-8451-ad0e32fac90c.png" width="30" /> **COLLABORATION.PROTOCOL [ OPEN ]**
+
+<div align="center"> <table> <tr> <td align="center" width="50%">
+
+#### 🤝 **SEEKING ALLIES FOR:**
+
+```yaml
+missions:
+  - CTF Teams & Competitions
+    status: "beginner-friendly welcome"
+    
+  - Security Research & Writeups
+    status: "knowledge sharing enthusiast"
+    
+  - Open-Source Security Tools
+    status: "builder mindset active"
+    
+  - eJPT/OSCP Study Groups
+    status: "structured learning partner"
+```
+
+</td> <td align="center" width="50%"> <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43f1-8c05-da994a9250e7.gif" width="400">
+
+<br><br>
+
+#### 📡 **TRANSMISSION CHANNEL**
+
+<a href="https://discord.com"> <img src="https://img.shields.io/badge/REACH_ME-Discord:%20saddist-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" /> </a> <br>
+
+```diff
+@@ COLLABORATION STATUS @@
++ OPEN TO: Red Team discussions
++ OPEN TO: CTF team formations  
++ OPEN TO: Security project partnerships
+! RESPONSE TIME: ~24 hours
+```
+
+</td> </tr> </table> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/> </p> <br>
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> **NEURAL.CORE [ LEARNING_PHILOSOPHY ]**
+
+<div align="center">
+
+```python
+#!/usr/bin/env python3
+# NEURAL TRAINING PROTOCOL v2.0
+
+class LearningEngine:
+    def __init__(self):
+        self.mode = "DEEP_DIVE"
+        self.documentation = "Obsidian Neural Vault"
+        self.approach = "Structured & Methodical"
+        
+    def execute(self):
+        while self.alive:
+            self.learn(depth="maximum", pace="sustainable")
+            self.document(format="obsidian_markdown")
+            self.build(mindset="production_ready")
+            self.repeat()
+            
+        return "Student today. Red Teamer tomorrow."
+
+# Initialize Learning Matrix
+engine = LearningEngine()
+engine.execute()
+```
+
+<br> <img src="https://img.shields.io/badge/PHILOSOPHY-SLOW_BUT_DEEP-00ff41?style=for-the-badge&logo=opslevel&logoColor=00ff41&labelColor=000000" /> <img src="https://img.shields.io/badge/APPROACH-STRUCTURED_ALWAYS-dc143c?style=for-the-badge&logo=databricks&logoColor=dc143c&labelColor=000000" /> <img src="https://img.shields.io/badge/MINDSET-BUILDER-ff0080?style=for-the-badge&logo=gradle&logoColor=ff0080&labelColor=000000" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ananalim&color=dc143c&style=for-the-badge&label=NEURAL+CONNECTIONS" /> </div> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> </p> <br>
+
+---
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=HAPPY%20HACKING&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65&desc=BREACH%20→%20LEARN%20→%20REPEAT&descSize=15&descAlignY=85" width="100%"/> </div>
