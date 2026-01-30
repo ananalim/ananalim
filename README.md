@@ -41,41 +41,9 @@ const anan = {
 
 ---
 
-### 🎯 **Learning Trajectory**
+### 🎯 **Certification Roadmap**
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[Pre-Security] --> B[Security 101]
-    B --> C[Jr. Penetration Tester]
-    C --> D[eJPT - Aug 2026]
-    D --> E[OSCP - Sept 2027]
-    E --> F[CRTO]
-    F --> G[Red Team Operator]
-    
-    style A fill:#1a1a1a,stroke:#00ff00,stroke-width:2px,color:#00ff00
-    style B fill:#1a1a1a,stroke:#00ff00,stroke-width:2px,color:#00ff00
-    style C fill:#1a1a1a,stroke:#ffa500,stroke-width:2px,color:#ffa500
-    style D fill:#1a1a1a,stroke:#dc143c,stroke-width:2px,color:#dc143c
-    style E fill:#1a1a1a,stroke:#dc143c,stroke-width:2px,color:#dc143c
-    style F fill:#1a1a1a,stroke:#dc143c,stroke-width:2px,color:#dc143c
-    style G fill:#1a1a1a,stroke:#dc143c,stroke-width:3px,color:#dc143c
-```
-
-</div>
-
-**Completed Modules**
-
-- ✅ TryHackMe: Pre-Security & Security 101
-- ✅ Bandit Wargames (OverTheWire)
-- ✅ Linux Internals & Networking Fundamentals
-- ✅ Web Exploitation Basics
-
-**Currently Learning**
-
-- 🔴 TryHackMe Jr. Penetration Tester Path
-- 🔴 eJPT Certification Preparation
+<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/2026-eJPT-00ff00?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=00ff00" /><br> <sub><b>August 2026</b></sub><br> <sub>eLearnSecurity Junior<br>Penetration Tester</sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/2027-OSCP-dc143c?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=dc143c" /><br> <sub><b>September 2027</b></sub><br> <sub>Offensive Security<br>Certified Professional</sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Future-CRTO-ff6b6b?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=ff6b6b" /><br> <sub><b>Post-OSCP</b></sub><br> <sub>Certified Red Team<br>Operator</sub> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11,20&height=3&section=header" width="80%"/> </div>
 
 ---
 
@@ -98,12 +66,6 @@ graph LR
 #### 🛠️ **Development Tools**
 
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /> </p> </td> </tr> </table>
-
----
-
-### 📊 **Activity**
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananalim&show_icons=true&theme=radical&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&border_color=dc143c&hide_border=false" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananalim&theme=radical&background=0d1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&border=dc143c&hide_border=false" width="49%" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananalim&layout=compact&theme=radical&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9&border_color=dc143c&hide_border=false" width="49%" alt="Top Languages" /> </div>
 
 ---
 
