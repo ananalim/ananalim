@@ -137,7 +137,7 @@ missions:
 
 #### 📡 **TRANSMISSION CHANNEL**
 
-<a href="https://discord.com"> <img src="https://img.shields.io/badge/REACH_ME-Discord:%20saddist-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" /> </a> <br>
+<a href="https://discord.com/users/889103312882901024"> <img src="https://img.shields.io/badge/REACH_ME-Discord:%20saddist-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" /> </a> <br>
 
 ```diff
 @@ COLLABORATION STATUS @@
